@@ -4,7 +4,10 @@ header{
     background-color: #4ea0ff;
     background-size: contain;
     background-clip: border-box;
-    width: 1200px;    
+    width: 1600px;    
+}
+body{
+    margin: 0;
 }
 .title{
     background-position: left;
