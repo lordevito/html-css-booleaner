@@ -1,0 +1,12 @@
+.container{
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-color: #4ea0ff;
+    background-size: contain;
+    width: 1000px;  
+}
+.title{
+    height: 200px;
+    width: 200px;
+
+}
