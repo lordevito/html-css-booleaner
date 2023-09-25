@@ -36,6 +36,19 @@ h1{
 table{
     border-collapse:collapse;
 }
-.Lorem{
-    color: #ffffff;
+.picture1{
+    background-image: url(img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 25px;
+}
+.picture2{
+    background-image: url(img/graph.jpg);
+    width: 312px;
+    height: 208px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 25px;
 }
